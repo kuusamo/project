@@ -8,3 +8,5 @@ define('DB_NAME', '');
 
 define('SITE_NAME', '');
 define('SITE_URL', '');
+
+//define('FAVICON', '/favicon.ico');
