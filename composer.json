@@ -4,13 +4,6 @@
     "description": "Kuusamo Project",
     "homepage": "https://github.com/kuusamo/project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Chris Worfolk",
-            "email": "chris@worfolk.co.uk",
-            "homepage": "http://www.worfolk.co.uk"
-        }
-    ],
     "require": {
         "kuusamo/core": "1.*"
     }
