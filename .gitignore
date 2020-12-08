@@ -1,2 +1,8 @@
 config.php
 vendor/
+
+# comment these out if you want the assets in git
+public/components
+public/images
+public/js
+public/styles
