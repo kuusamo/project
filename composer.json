@@ -6,5 +6,13 @@
     "license": "MIT",
     "require": {
         "kuusamo/core": "1.*"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "Kuusamo\\Vle\\Cli\\ScriptHandler::postInstall"
+        ],
+        "post-update-cmd": [
+            "Kuusamo\\Vle\\Cli\\ScriptHandler::postUpdate"
+        ]
     }
 }
