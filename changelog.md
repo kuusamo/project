@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.1.2
+-----
+* Doctrine migrations config
+
 1.1.1
 -----
 * Doctrine CLI config
