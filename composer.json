@@ -1,6 +1,6 @@
 {
     "name": "kuusamo/project",
-    "tyoe": "project",
+    "type": "project",
     "description": "Kuusamo Project",
     "homepage": "https://github.com/kuusamo/project",
     "license": "MIT",
